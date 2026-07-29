@@ -14,6 +14,7 @@
 
 ## Building now
 
+- 🛡️ **[DIRA](https://github.com/Yusuf-Gadelrab/dira)** — security audit for startup codebases in one command: leaked secrets, dependency CVEs via OSV.dev, 34 misconfiguration rules, dependency license risk, git-history leaks, live TLS and security headers, SBOM, and a startup security-readiness score. Zero dependencies, MIT, [what it does](https://yusuf-gadelrab.github.io/dira.html).
 - 🚛 **[FreightDesk](https://yusuf-gadelrab.github.io/freightdesk.html)** — AI billing/back-office assistant for freight brokers, grown out of the AI email automation I built as a SWE intern at HwyHaul. Local-LLM powered, drafts in, humans fire.
 - 🎞️ **[EventReels](https://github.com/Yusuf-Gadelrab/eventreels)** — drop in raw event footage, get back a finished 9:16 highlight reel. Scene detection + loudness analysis pick the best seconds; ffmpeg cuts the reel. 100% local, zero API keys.
 - 📈 **[EdgeLog](https://github.com/Yusuf-Gadelrab/edgelog)** — trade journal analyzer that tells you if you actually have an edge: expectancy in R, profit factor, drawdown, edge by setup, plain-English verdict. I run my own trades through it.

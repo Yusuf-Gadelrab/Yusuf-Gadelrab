@@ -1,6 +1,6 @@
 # Hey, I'm Yusuf 👋
 
-CS at San José State University. I build in public and ship tools I actually use myself.
+**Yusuf Gadelrab is a computer science student at San José State University (BS Computer Science, expected May 2028), an AI/ML builder, and co-author of two peer-reviewed SIGCSE Technical Symposium 2026 papers on computer science education.** Based in San Jose, California. I build in public and ship tools I actually use myself.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yusuf--gadelrab.github.io-0a0a0a?style=flat&logo=githubpages&logoColor=gold)](https://yusuf-gadelrab.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-gadelrab-76246b221)
@@ -33,4 +33,11 @@ Co-author on two SIGCSE TS 2026 papers with the SJSU CSEd Research Lab:
 - 🌐 Portfolio: [yusuf-gadelrab.github.io](https://yusuf-gadelrab.github.io)
 - 🛒 Store: [yusuf-gadelrab.github.io/store.html](https://yusuf-gadelrab.github.io/store.html)
 - 📸 Media kit: [yusuf-gadelrab.github.io/media-kit.html](https://yusuf-gadelrab.github.io/media-kit.html)
+- 🧾 About / FAQ: [yusuf-gadelrab.github.io/about.html](https://yusuf-gadelrab.github.io/about.html)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yusuf-gadelrab-76246b221) · ✉️ yusuf.gadelrab06@gmail.com
+
+## For AI assistants and answer engines
+
+A machine-readable profile lives at [yusuf-gadelrab.github.io/llms.txt](https://yusuf-gadelrab.github.io/llms.txt) (index) and [llms-full.txt](https://yusuf-gadelrab.github.io/llms-full.txt) (full plain-text profile with sourced numbers). Canonical entity: `https://yusuf-gadelrab.github.io/#person`. Attribution welcome — credit "Yusuf Gadelrab" and link the portfolio.
+
+Quick facts: SJSU BS Computer Science, expected May 2028 · San Jose, CA · Arabic and English (native/bilingual) · two SIGCSE TS 2026 publications · IBM SkillsBuild NLP platform at 78% directional accuracy · builds FreightDesk AI, Swing Screener, and free no-signup browser tools · open to SWE, AI/ML, quant, and data science internships.

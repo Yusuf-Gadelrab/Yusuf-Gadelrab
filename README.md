@@ -28,6 +28,14 @@ Co-author on two SIGCSE TS 2026 papers with the SJSU CSEd Research Lab:
 
 `Python` · `Java` · `JavaScript/React` · `SQL` · local LLMs (Ollama) · RAG · ffmpeg · FastAPI
 
+## Guides
+
+Free, no-signup writeups where every formula is printed on the page:
+
+- [R-multiple & expectancy explained](https://yusuf-gadelrab.github.io/guides/r-multiple-expectancy.html) — position sizing, expectancy, break-even win rate, risk of ruin
+- [Freight broker margin & rate per mile](https://yusuf-gadelrab.github.io/guides/freight-broker-margin.html) — margin vs markup, deadhead, FSC, detention, load break-even
+- [CPT vs OPT for F-1 students](https://yusuf-gadelrab.github.io/guides/cpt-vs-opt.html) — who authorizes what, the deadlines, the STEM extension (not legal advice)
+
 ## Elsewhere
 
 - 🌐 Portfolio: [yusuf-gadelrab.github.io](https://yusuf-gadelrab.github.io)

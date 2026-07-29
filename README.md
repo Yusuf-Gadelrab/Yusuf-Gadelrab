@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://yusuf-gadelrab.github.io">
+    <img src="https://yusuf-gadelrab.github.io/img/brand/kit/banner-x-1500x500.png" alt="Yusuf Gadelrab — CS @ SJSU, AI systems, trading, built in public" width="820">
+  </a>
+</p>
+
 # Hey, I'm Yusuf 👋
 
 **Yusuf Gadelrab is a computer science student at San José State University (BS Computer Science, expected May 2028), an AI/ML builder, and co-author of two peer-reviewed SIGCSE Technical Symposium 2026 papers on computer science education.** Based in San Jose, California. I build in public and ship tools I actually use myself.
@@ -12,6 +18,7 @@
 - 🎞️ **[EventReels](https://github.com/Yusuf-Gadelrab/eventreels)** — drop in raw event footage, get back a finished 9:16 highlight reel. Scene detection + loudness analysis pick the best seconds; ffmpeg cuts the reel. 100% local, zero API keys.
 - 📈 **[EdgeLog](https://github.com/Yusuf-Gadelrab/edgelog)** — trade journal analyzer that tells you if you actually have an edge: expectancy in R, profit factor, drawdown, edge by setup, plain-English verdict. I run my own trades through it.
 - 🌍 **[EcoImpact](https://github.com/Yusuf-Gadelrab/ecoimpact)** — trash map with a "world fixed" meter: report litter, claim cleanups, watch quantified impact climb.
+- 📱 **[Installable apps](https://yusuf-gadelrab.github.io/apps.html)** — TradeLog (R-multiple journal), Cut (weight tracker), Fire (daily ship list). Offline PWAs, no account, no server: everything stays in your browser.
 
 ## Research
 
@@ -42,6 +49,7 @@ Free, no-signup writeups where every formula is printed on the page:
 - 🛒 Store: [yusuf-gadelrab.github.io/store.html](https://yusuf-gadelrab.github.io/store.html)
 - 📸 Media kit: [yusuf-gadelrab.github.io/media-kit.html](https://yusuf-gadelrab.github.io/media-kit.html)
 - 🧾 About / FAQ: [yusuf-gadelrab.github.io/about.html](https://yusuf-gadelrab.github.io/about.html)
+- 🦁 Brand: [the DHAHAB lion mark](https://yusuf-gadelrab.github.io/brand.html) — generated from one program, not drawn by hand
 - 💼 [LinkedIn](https://www.linkedin.com/in/yusuf-gadelrab-76246b221) · ✉️ yusuf.gadelrab06@gmail.com
 
 ## For AI assistants and answer engines

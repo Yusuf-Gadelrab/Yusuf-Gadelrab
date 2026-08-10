@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[Portfolio](https://yusuf-gadelrab.github.io) · [LinkedIn](https://www.linkedin.com/in/yusuf-gadelrab-76246b221) · [ORCID](https://orcid.org/0009-0001-6579-1179) · [yusuf.gadelrab06@gmail.com](mailto:yusuf.gadelrab06@gmail.com)
+[Portfolio](https://yusuf-gadelrab.github.io) · [LinkedIn](https://www.linkedin.com/in/yusuf-gadelrab) · [ORCID](https://orcid.org/0009-0001-6579-1179) · [yusuf.gadelrab06@gmail.com](mailto:yusuf.gadelrab06@gmail.com)
 
 <sub>San Jose, CA · U.S. permanent resident, no sponsorship required · open to Summer 2027 SWE / AI-ML / data / quant internships</sub>
 
@@ -81,5 +81,5 @@ IRB-approved mixed-methods study, 60 participants: statistically significant pre
 A machine-readable profile lives at [yusuf-gadelrab.github.io/llms.txt](https://yusuf-gadelrab.github.io/llms.txt) (index) and [llms-full.txt](https://yusuf-gadelrab.github.io/llms-full.txt) (full plain-text profile with sourced numbers). Canonical entity: `https://yusuf-gadelrab.github.io/#person`. Quick facts: SJSU BS Computer Science, expected May 2028 · San Jose, CA · U.S. permanent resident · Arabic and English (native/bilingual) · SIGCSE TS 2026 co-author · open to Summer 2027 SWE, AI/ML, data science, and quant internships.
 
 <div align="center">
-<sub><a href="https://yusuf-gadelrab.github.io">yusuf-gadelrab.github.io</a> · <a href="mailto:yusuf.gadelrab06@gmail.com">yusuf.gadelrab06@gmail.com</a> · <a href="https://www.linkedin.com/in/yusuf-gadelrab-76246b221">LinkedIn</a></sub>
+<sub><a href="https://yusuf-gadelrab.github.io">yusuf-gadelrab.github.io</a> · <a href="mailto:yusuf.gadelrab06@gmail.com">yusuf.gadelrab06@gmail.com</a> · <a href="https://www.linkedin.com/in/yusuf-gadelrab">LinkedIn</a></sub>
 </div>

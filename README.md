@@ -14,7 +14,7 @@
 
 ## Building now
 
-- 🛡️ **[DIRA](https://github.com/Yusuf-Gadelrab/dira)** — security audit for startup codebases in one command: leaked secrets, dependency CVEs via OSV.dev, 34 misconfiguration rules, dependency license risk, git-history leaks, live TLS and security headers, SBOM, and a startup security-readiness score. Zero dependencies, MIT, [what it does](https://yusuf-gadelrab.github.io/dira.html).
+- 🛡️ **[DIRA](https://github.com/Yusuf-Gadelrab/dira)** — security audit for startup codebases in one command: leaked secrets, dependency CVEs via OSV.dev, 38 misconfiguration rules, dependency license risk, git-history leaks, live TLS and security headers, SBOM, and a startup security-readiness score. Zero dependencies, MIT, [what it does](https://yusuf-gadelrab.github.io/dira.html).
 - 🚛 **[FreightDesk](https://yusuf-gadelrab.github.io/freightdesk.html)** — AI billing/back-office assistant for freight brokers, grown out of the AI email automation I built as a SWE intern at HwyHaul. Local-LLM powered, drafts in, humans fire.
 - 🎞️ **[EventReels](https://github.com/Yusuf-Gadelrab/eventreels)** — drop in raw event footage, get back a finished 9:16 highlight reel. Scene detection + loudness analysis pick the best seconds; ffmpeg cuts the reel. 100% local, zero API keys.
 - 📈 **[EdgeLog](https://github.com/Yusuf-Gadelrab/edgelog)** — trade journal analyzer that tells you if you actually have an edge: expectancy in R, profit factor, drawdown, edge by setup, plain-English verdict. I run my own trades through it.
@@ -24,8 +24,10 @@
 ## Research
 
 Co-author on two SIGCSE TS 2026 papers with the SJSU CSEd Research Lab:
-- *Exploring Bilingual Coding for Inclusive CS Learning* — [DOI 10.1145/3770761.3777339](https://doi.org/10.1145/3770761.3777339)
+- *Exploring Bilingual Coding for Inclusive Computer Science Learning* — [DOI 10.1145/3770761.3777339](https://doi.org/10.1145/3770761.3777339)
 - *Adaptive Curriculum Maps: Graph-Augmented Retrieval-Oriented LLMs for Education* (poster)
+
+ORCID [0009-0001-6579-1179](https://orcid.org/0009-0001-6579-1179) · [DBLP](https://dblp.org/pid/427/1928)
 
 ## Previously
 

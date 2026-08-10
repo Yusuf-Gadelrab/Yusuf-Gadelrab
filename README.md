@@ -12,13 +12,13 @@
 
 </div>
 
-I'm a CS undergrad at San José State who ships tools and publishes the numbers behind them — including the negative ones. Below: a zero-dependency security scanner with 138 passing tests, a peer-reviewed SIGCSE paper, an NLP platform built through IBM SkillsBuild, and a trading signal I retired after my own re-test showed its edge was mostly market drift. Everything links to code, a DOI, or a report.
+I'm a CS undergrad at San José State who ships tools and publishes the numbers behind them — including the negative ones. Below: a zero-dependency security scanner with 208 passing tests, a peer-reviewed SIGCSE publication, an NLP platform built through IBM SkillsBuild, and a trading signal I retired after my own re-test showed its edge was mostly market drift. Everything links to code, a DOI, or a report.
 
 ## DIRA — a startup security audit in one command
 
 **[github.com/Yusuf-Gadelrab/dira](https://github.com/Yusuf-Gadelrab/dira)** · [what it does](https://yusuf-gadelrab.github.io/dira.html)
 
-`dira scan .` walks a repo and reports leaked secrets, dependency CVEs (queried live against OSV.dev), misconfigurations, dependency license risk, git-history leaks, and the live TLS/security-header posture of your deployed site — then scores 18 launch-readiness checks. v1.5.0, 7 scanners, 138 passing tests, **zero runtime dependencies**. Stdlib-only is a design decision, not a limitation: a security tool should not import its own supply-chain risk.
+`dira scan .` walks a repo and reports leaked secrets, dependency CVEs (queried live against OSV.dev), misconfigurations, dependency license risk, git-history leaks, and the live TLS/security-header posture of your deployed site — then scores 18 launch-readiness checks. v1.5.0, 7 scanners, 208 passing tests, **zero runtime dependencies**. Stdlib-only is a design decision, not a limitation: a security tool should not import its own supply-chain risk.
 
 The parts that were hard:
 
@@ -46,7 +46,7 @@ Co-author at **SIGCSE TS 2026**, the flagship ACM computer-science-education con
 > *Exploring Bilingual Coding for Inclusive Computer Science Learning.*
 > SIGCSE TS 2026 · [DOI 10.1145/3770761.3777339](https://doi.org/10.1145/3770761.3777339)
 
-IRB-approved mixed-methods study, 60 participants: statistically significant pre-to-post gains in programming confidence, computing identity, enjoyment, and motivation — with novices gaining significantly more than experienced programmers. I work on the bilingual (Arabic/English) curriculum side and teach the CS program we run at Yerba Buena High School. Also at SIGCSE TS 2026: *Adaptive Curriculum Maps: Graph-Augmented Retrieval-Oriented LLMs for Education* (poster).
+IRB-approved mixed-methods study, 60 participants: statistically significant pre-to-post gains in programming confidence, computing identity, enjoyment, and motivation — with novices gaining significantly more than experienced programmers. I work on the bilingual (Arabic/English) curriculum side and teach the CS program we run at Yerba Buena High School.
 
 [ORCID 0009-0001-6579-1179](https://orcid.org/0009-0001-6579-1179) · [DBLP](https://dblp.org/pid/427/1928)
 

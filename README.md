@@ -12,13 +12,13 @@
 
 </div>
 
-I'm a CS undergrad at San José State who ships tools and publishes the numbers behind them — including the negative ones. Below: a zero-dependency security scanner with 134 passing tests, a peer-reviewed SIGCSE paper, an NLP platform built through IBM SkillsBuild, and a trading signal I retired after my own re-test showed its edge was mostly market drift. Everything links to code, a DOI, or a report.
+I'm a CS undergrad at San José State who ships tools and publishes the numbers behind them — including the negative ones. Below: a zero-dependency security scanner with 138 passing tests, a peer-reviewed SIGCSE paper, an NLP platform built through IBM SkillsBuild, and a trading signal I retired after my own re-test showed its edge was mostly market drift. Everything links to code, a DOI, or a report.
 
 ## DIRA — a startup security audit in one command
 
 **[github.com/Yusuf-Gadelrab/dira](https://github.com/Yusuf-Gadelrab/dira)** · [what it does](https://yusuf-gadelrab.github.io/dira.html)
 
-`dira scan .` walks a repo and reports leaked secrets, dependency CVEs (queried live against OSV.dev), misconfigurations, dependency license risk, git-history leaks, and the live TLS/security-header posture of your deployed site — then scores 18 launch-readiness checks. v1.5.0, 7 scanners, 134 passing tests, **zero runtime dependencies**. Stdlib-only is a design decision, not a limitation: a security tool should not import its own supply-chain risk.
+`dira scan .` walks a repo and reports leaked secrets, dependency CVEs (queried live against OSV.dev), misconfigurations, dependency license risk, git-history leaks, and the live TLS/security-header posture of your deployed site — then scores 18 launch-readiness checks. v1.5.0, 7 scanners, 138 passing tests, **zero runtime dependencies**. Stdlib-only is a design decision, not a limitation: a security tool should not import its own supply-chain risk.
 
 The parts that were hard:
 

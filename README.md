@@ -13,11 +13,11 @@ I work mostly on backend systems, data pipelines, and AI tooling — turning mes
 ## Research and teaching
 
 - **CS Tutor**, San José State University — August 2024–present
-- **Undergraduate researcher** under Prof. Ethel Tshukudu — August 2024–present
+- **Student Researcher**, San José State University — August 2024–present
 - **Poster co-author** (seventh author), *Exploring Bilingual Coding for Inclusive Computer Science Learning*, ACM SIGCSE Technical Symposium 2026, pp. 1559–1560. The study included 60 bilingual participants. This contribution is a poster. [DOI: 10.1145/3770761.3777339](https://doi.org/10.1145/3770761.3777339) · [SJSU ScholarWorks record](https://scholarworks.sjsu.edu/faculty_rsca/6913/)
-- **Student author** (fifth of eleven), poster #73 *Learning Machine Learning with Prior Programming Knowledge: Student Challenges, Attitudes, and Early Successes*, Department of Computer Science, 21st Annual SJSU College of Science Student Research Day — faculty advisor Ethel Tshukudu ([SRD21 program](https://www.sjsu.edu/science/docs/srd/SRD21program.pdf))
-- **Presented** *Programming across Languages* at SJSU's 20th Annual College of Science Student Research Day, 2025
-- **CS instructor** for Yerba Buena High School programs
+- **Paper co-author** (fifth author), *Does Language Matter in Programming? Exploring Student Attitudes and Experiences in a Bilingual Coding Workshop*, an accepted CER-track paper at ACM SIGCSE Virtual 2026. This is distinct from the SIGCSE TS poster above. [Accepted-paper record](https://sigcsevirtual2026.acm.org/details/sigcse-virtual-2026-papers/31/Does-Language-Matter-in-Programming-Exploring-Student-Attitudes-and-Experiences-in-a)
+- **Presented** *Programming across Languages: Investigating the Impact of Coding in Bilingual Language on Computing Attitudes and Behavior* at SJSU's 20th Annual College of Science Student Research Day, 2025
+- **Curriculum & Workshop Lead**, Coding Warriors, SJSU; ran CS programs at Yerba Buena High School
 
 ## Recent technical writing
 
@@ -37,7 +37,7 @@ I work mostly on backend systems, data pipelines, and AI tooling — turning mes
 
 ## Campus involvement
 
-Project Manager, Silicon Valley Entrepreneurship Club · Treasurer, Kappa Sigma · Curriculum & Workshop Lead, Coding Warriors · IBM AI Creator program participant
+Project Manager, Silicon Valley Entrepreneurship Club · Former Treasurer, Kappa Sigma (Aug 2025–Jan 2026) · Curriculum & Workshop Lead, Coding Warriors · Former AI Creator, IBM (Jan–May 2026, unpaid)
 
 ## Tools
 

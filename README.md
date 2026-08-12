@@ -41,7 +41,7 @@ Project Manager, Silicon Valley Entrepreneurship Club · Former Treasurer, Kappa
 
 ## Tools
 
-Python · C++ · Java · SQL · React · Git · FastAPI · ffmpeg · retrieval-augmented generation · natural language processing
+Python · C++ · SQL · React · Git · machine learning · natural language processing · large language models
 
 ## Links
 

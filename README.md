@@ -14,8 +14,17 @@ I work mostly on backend systems, data pipelines, and AI tooling — turning mes
 
 - **CS Tutor**, San José State University — August 2024–present
 - **Undergraduate researcher** under Prof. Ethel Tshukudu — August 2024–present
-- **Poster co-author** (seventh author), *Exploring Bilingual Coding for Inclusive Computer Science Learning*, ACM SIGCSE Technical Symposium 2026, pp. 1559–1560. The study included 60 bilingual participants. This contribution is a poster. [DOI: 10.1145/3770761.3777339](https://doi.org/10.1145/3770761.3777339)
+- **Poster co-author** (seventh author), *Exploring Bilingual Coding for Inclusive Computer Science Learning*, ACM SIGCSE Technical Symposium 2026, pp. 1559–1560. The study included 60 bilingual participants. This contribution is a poster. [DOI: 10.1145/3770761.3777339](https://doi.org/10.1145/3770761.3777339) · [SJSU ScholarWorks record](https://scholarworks.sjsu.edu/faculty_rsca/6913/)
+- **Student author** (fifth of eleven), poster #73 *Learning Machine Learning with Prior Programming Knowledge: Student Challenges, Attitudes, and Early Successes*, Department of Computer Science, 21st Annual SJSU College of Science Student Research Day — faculty advisor Ethel Tshukudu ([SRD21 program](https://www.sjsu.edu/science/docs/srd/SRD21program.pdf))
+- **Presented** *Programming across Languages* at SJSU's 20th Annual College of Science Student Research Day, 2025
 - **CS instructor** for Yerba Buena High School programs
+
+## Recent technical writing
+
+- [Notes on a SIGCSE TS 2026 poster: what two hours at a poster board demands](https://yusuf-gadelrab.github.io/portfolio/writing/sigcse-ts-2026-poster-notes/)
+- [Integrating third-party APIs: timeouts, retries, idempotency, and rate limits](https://yusuf-gadelrab.github.io/portfolio/writing/third-party-api-integration/)
+- [SQL joins and indexes: the parts that quietly change your answer](https://yusuf-gadelrab.github.io/portfolio/writing/sql-joins-and-indexes/)
+- [Docker for CS coursework, without the rabbit hole](https://yusuf-gadelrab.github.io/portfolio/writing/docker-for-cs-coursework/)
 
 ## Projects worth a look
 
@@ -37,5 +46,9 @@ Python · C++ · Java · SQL · React · Git · FastAPI · ffmpeg · retrieval-a
 ## Links
 
 - Portfolio: <https://yusuf-gadelrab.github.io/portfolio/>
+- Technical writing: <https://yusuf-gadelrab.github.io/portfolio/writing/>
+- ORCID: <https://orcid.org/0009-0001-6579-1179>
+- Semantic Scholar: <https://www.semanticscholar.org/author/2410503919>
+- OpenAlex: <https://openalex.org/A5125935067>
 - LinkedIn: <https://www.linkedin.com/in/yusuf-gadelrab>
 - Email: <yusuf.gadelrab06@gmail.com>

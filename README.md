@@ -14,7 +14,7 @@ I work mostly on backend systems, data pipelines, and AI tooling — turning mes
 
 - **CS Tutor**, San José State University — August 2024–present
 - **Undergraduate researcher** under Prof. Ethel Tshukudu — August 2024–present
-- **Poster co-author** (seventh of nine authors), *Exploring Bilingual Coding for Inclusive Computer Science Learning*, ACM SIGCSE Technical Symposium 2026, pp. 1559–1560. The study included 60 bilingual participants. This contribution is a poster. [DOI: 10.1145/3770761.3777339](https://doi.org/10.1145/3770761.3777339)
+- **Poster co-author** (seventh author), *Exploring Bilingual Coding for Inclusive Computer Science Learning*, ACM SIGCSE Technical Symposium 2026, pp. 1559–1560. The study included 60 bilingual participants. This contribution is a poster. [DOI: 10.1145/3770761.3777339](https://doi.org/10.1145/3770761.3777339)
 - **CS instructor** for Yerba Buena High School programs
 
 ## Projects worth a look
